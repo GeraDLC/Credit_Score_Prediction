@@ -15,13 +15,14 @@ Equipo 11: Gerardo de la Cruz, Dave Bautista, José Ruiz
 
 ## Resultados
 ### Visualización y Balanceo de Clases
-
+Una vez preprocesados los datos, se realizaron los siguientes gráficos de algunas características que parecieron relevantes del Dataframe.
 ![Visualización](Unknown.png)
 
+Es importante mencionar que fue necesario hacer un balanceo de las clases para obtener mejores resultados.
 ![Balanceo de Clases](Unknown-2.png)
 
 ### Mapa de Calor
-
+El siguiente mapa de correlación nos indica que tan relacionadas están las variables unas con otras.
 ![Mapa Calor](Unknown-3.png)
 
 ### Matrices de Confusión
