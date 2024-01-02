@@ -1,7 +1,7 @@
 # Credit Score Prediction
 Equipo 11: Gerardo de la Cruz, Dave Bautista, José Ruiz
 
-## La importancia de reducir el riesgo crediticio ha llevado a una institución financiera alemana a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para construir un modelo de machine learning preciso y confiable que sea capaz de evaluar con mayor precisión la probabilidad de incumplimiento crediticio de sus clientes.
+La importancia de reducir el riesgo crediticio ha llevado a una institución financiera alemana a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para construir un modelo de machine learning preciso y confiable que sea capaz de evaluar con mayor precisión la probabilidad de incumplimiento crediticio de sus clientes.
 
 ### **Actividades Principales:**
 
@@ -16,16 +16,21 @@ Equipo 11: Gerardo de la Cruz, Dave Bautista, José Ruiz
 ## Resultados
 ### Visualización y Balanceo de Clases
 Una vez preprocesados los datos, se realizaron los siguientes gráficos de algunas características que parecieron relevantes del Dataframe.
+
 ![Visualización](Unknown.png)
 
 Es importante mencionar que fue necesario hacer un balanceo de las clases para obtener mejores resultados.
+
 ![Balanceo de Clases](Unknown-2.png)
 
 ### Mapa de Calor
 El siguiente mapa de correlación nos indica que tan relacionadas están las variables unas con otras.
+
 ![Mapa Calor](Unknown-3.png)
 
 ### Matrices de Confusión
+
+Se probaron diferentes modelos de Machine Learning, los cuales se pueden observar los resultados de estos a continuación.
 
 ![Matrices de Confusión](Unknown-4.png)
 
@@ -34,6 +39,8 @@ El siguiente mapa de correlación nos indica que tan relacionadas están las var
 ![Matrices de Confusión](Unknown-6.png)
 
 ### Comparación de Modelos
+
+Parece ser que los modelos con mejores métricas resultan ser Random Forest Classifier y KNN
 
 ![Comparación Modelos](Unknown-7.png)
 
