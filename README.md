@@ -16,6 +16,8 @@ Equipo 11: Gerardo de la Cruz, Dave Bautista, José Ruiz
 ## Resultados
 ### Visualización y Balanceo de Clases
 
+Unknown-2.png
+
 ### Mapa de Calor
 
 ### Matrices de Confusión
