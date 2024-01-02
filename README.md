@@ -21,14 +21,19 @@ Equipo 11: Gerardo de la Cruz, Dave Bautista, José Ruiz
 ![Balanceo de Clases](Unknown-2.png)
 
 ### Mapa de Calor
+
 ![Mapa Calor](Unknown-3.png)
 
 ### Matrices de Confusión
-![Matrices de Confusión](Uknown-4.png)
-![Matrices de Confusión](Uknown-5.png)
-![Matrices de Confusión](Uknown-6.png)
+
+![Matrices de Confusión](Unknown-4.png)
+
+![Matrices de Confusión](Unknown-5.png)
+
+![Matrices de Confusión](Unknown-6.png)
 
 ### Comparación de Modelos
-![Comparación Modelos](Uknown-7.png)
+
+![Comparación Modelos](Unknown-7.png)
 
 ## Conclusiones
