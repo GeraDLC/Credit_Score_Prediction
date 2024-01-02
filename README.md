@@ -24,7 +24,7 @@ Es importante mencionar que fue necesario hacer un balanceo de las clases para o
 ![Balanceo de Clases](Unknown-2.png)
 
 ### Mapa de Calor
-El siguiente mapa de correlación nos indica que tan relacionadas están las variables unas con otras.
+El siguiente mapa de correlación nos indica que tan relacionadas están las variables unas con otras. Cabe mencionar que se descartaron algunas variables no tan importantes del conjunto de datos original, esto con la finalidad de lograr un mejor modelo.
 
 ![Mapa Calor](Unknown-3.png)
 
@@ -45,3 +45,5 @@ Parece ser que los modelos con mejores métricas resultan ser Random Forest Clas
 ![Comparación Modelos](Unknown-7.png)
 
 ## Conclusiones
+
+#### En este proyecto de machine learning el modelo con las mejores métricas fue Random Forest Classifier, obteniendo un Accuracy: 0.846 y Precisión: 0.807. El cual lo hace el modelo con mejores métricas para este proyecto de clasificación de potenciales buenos y malos clientes. Como se observa en la amtriz de confusión es el modelo que menos se equivoca en general al clasificar clientes.
