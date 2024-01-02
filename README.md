@@ -15,8 +15,8 @@ Equipo 11: Gerardo de la Cruz, Dave Bautista, José Ruiz
 
 ## Resultados
 ### Visualización y Balanceo de Clases
-
-![Calis](Unknown-2.png )
+![](Uknown.png)
+![](Unknown-2.png)
 
 ### Mapa de Calor
 
