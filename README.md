@@ -28,7 +28,7 @@ El siguiente mapa de correlación nos indica que tan relacionadas están las var
 
 ![Mapa Calor](Unknown-3.png)
 
-### Matrices de Confusión
+###               Matrices de Confusión
 
 Se probaron diferentes modelos de Machine Learning, los cuales se pueden observar los resultados de estos a continuación.
 
@@ -40,10 +40,10 @@ Se probaron diferentes modelos de Machine Learning, los cuales se pueden observa
 
 ### Comparación de Modelos
 
-Parece ser que los modelos con mejores métricas resultan ser Random Forest Classifier y KNN
+Parece ser que los modelos con mejores métricas resultan ser Random Forest Classifier y KNN.
 
 ![Comparación Modelos](Unknown-7.png)
 
 ## Conclusiones
 
-#### En este proyecto de machine learning el modelo con las mejores métricas fue Random Forest Classifier, obteniendo un Accuracy: 0.846 y Precisión: 0.807. El cual lo hace el modelo con mejores métricas para este proyecto de clasificación de potenciales buenos y malos clientes. Como se observa en la amtriz de confusión es el modelo que menos se equivoca en general al clasificar clientes.
+#### En este proyecto de machine learning el modelo con las mejores métricas fue Random Forest Classifier, obteniendo un Accuracy: 0.846 y Precisión: 0.807. El cual lo hace el modelo con mejores métricas para este proyecto de clasificación de potenciales buenos y malos clientes. Como se observa en la matriz de confusión, RFC es el modelo que menos se equivoca en general al clasificar a los clientes.
